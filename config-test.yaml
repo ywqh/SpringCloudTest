@@ -1,2 +1,2 @@
-server:
-  myPort: 9003
+myServer:
+  Port: 9003
