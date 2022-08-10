@@ -1,2 +1,2 @@
 myServer:
-  Port: 5672
+  Port: 15672
